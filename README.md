@@ -6,5 +6,5 @@ Me chamo Maria Clara
 - 18y
 - ela/dela
 
-email:[mcmelobarraza@usp.br](mcmelobarraza@usp.br)
+email: [mcmelobarraza@usp.br](mcmelobarraza@usp.br)
 
